@@ -2,7 +2,7 @@
         <h1>Movies Universe</h1><p>(A movie lister App)</p>
 </span>
 <p>Author : Om Kumar</p>
-<p>Made using Jetpack Compose</p>
+<p>Made using Jetpack Compose and TMDB Movies API</p>
 
 ![start](https://github.com/OmKumarIITG/movies_lister/assets/144237457/58bdb5e8-0346-4e58-8d57-b08bac3e1b3e)
 ![home](https://github.com/OmKumarIITG/movies_lister/assets/144237457/cc2a7d74-6545-4831-85c7-9b1e83eb852c)
